@@ -1,2 +1,2 @@
-let str = "Hello, world"
-str = "Goodbye, world"
+var str = "Hello, world"
+str = "Who, me?"
